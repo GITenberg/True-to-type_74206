@@ -5,12 +5,17 @@ contributor:
     agent_name: Lief, Bert
     gutenberg_agent_id: '57388'
     url: http://www.gutenberg.org/2009/agents/57388
+covers:
+- cover_type: archival
+  image_path: 74206-h/images/cover.jpg
 creator:
   author:
     agent_name: Harris, Arthur T.
     gutenberg_agent_id: '57391'
     url: http://www.gutenberg.org/2009/agents/57391
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74206#True-to-type
 gutenberg_issued: '2024-08-07'
 gutenberg_type: Text
 identifiers:
